@@ -1,5 +1,7 @@
 # terraform-tegola-lambda
 
+[![CircleCI](https://circleci.com/gh/azavea/terraform-tegola-lambda.svg?style=svg)](https://circleci.com/gh/azavea/terraform-tegola-lambda)
+
 A Terraform module to create an Amazon Web Services (AWS) Lambda based [Tegola](https://tegola.io/) vector tile service.
 
 ## Usage
